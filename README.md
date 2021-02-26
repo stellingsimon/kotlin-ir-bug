@@ -16,7 +16,7 @@ KotlinIcBugApplicationTests > contextLoads() FAILED
 
 FAILURE: Build failed with an exception.
 ...
-``
+```
 
 Then, change `useIR = true` to `useIR = false` in `build.gradle.kts`. Re-run the tests:
 
